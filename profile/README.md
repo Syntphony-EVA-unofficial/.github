@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the UNOFFICIAL NTT DATA Syntphony Conversational Experience Hub 👋
+This is the UNOFFICIAL NTT DATA Syntphony Conversational AI Hub 👋
 If you find a bug to fix or a problem in the documentations, please report it. You can reach me at jalviare@nttdata.com
 
 ## About this collection of repositories 🙋‍♀️
