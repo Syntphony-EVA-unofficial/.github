@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is the UNOFFICIAL NTT DATA Syntphony Conversational AI Hub 👋
-If you find a bug to fix or a problem in the documentations, please report it. You can reach me at jalviare@nttdata.com
+If you find a bug to fix or a problem in the documentations, please report it. **You can reach me at jorge.alviarezgomez@nttdata.com**
 
 ## About this collection of repositories 🙋‍♀️
 The goal is to provide with connectors, webhooks, extensions and tutorials to enhance the capabilities of Virtual Agents build with *NTT DATA Syntphony Conversational Experience*, also known as *Eva*.
